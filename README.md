@@ -1,4 +1,3 @@
 # motest
-:
-C
-my ch
+D.
+test ch
