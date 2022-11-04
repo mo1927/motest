@@ -1,1 +1,4 @@
 # motest
+:
+C
+my ch
